@@ -1,4 +1,4 @@
-<h1><img src="https://tenor.com/view/diwali-sparkles-mubarak-hands-pray-google-gif-14463166" width="30"/> नमस्ते! स्वागतम् </h1>
+<h1><div class="tenor-gif-embed" data-postid="14463166" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/diwali-sparkles-mubarak-hands-pray-google-gif-14463166">Hands Come Together To Say Namaste GIF</a> from <a href="https://tenor.com/search/diwalisparkles-gifs">Diwalisparkles GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> नमस्ते! स्वागतम् </h1>
 
 <p>Welcome to my page! </br> 
 I'm Mukund, DevOps engineer in <b>New Delhi</b> 🇮🇳
