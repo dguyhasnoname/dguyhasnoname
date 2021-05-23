@@ -22,9 +22,12 @@ I'm Mukund, DevOps engineer in <b>New Delhi</b> 🇮🇳
   <img alt="GoCD" src="https://img.shields.io/badge/%20-gocd-black?style=flat-square&logo=GoCD&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/%20-python-blue?style=flat-square&logo=python&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/%20-bash-blue?style=flat-square&logo=bash&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/%20-ansible-green?style=flat-square&logo=ansible&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/%20-Terraform-blue?style=flat-square&logo=Terraform&logoColor=white" />
   <img alt="New Relic" src="https://img.shields.io/badge/%20-New%20Relic-bluegreen?style=flat-square&logo=NewRelic&logoColor=white" />  
   <img alt="JIRA" src="https://img.shields.io/badge/%20-JIRA-blue?style=flat-square&logo=jira&logoColor=white" /> 
-  <img alt="Confluence" src="https://img.shields.io/badge/%20-Confluence-blue?style=flat-square&logo=Confluence&logoColor=white" />   
+  <img alt="Confluence" src="https://img.shields.io/badge/%20-Confluence-blue?style=flat-square&logo=Confluence&logoColor=white" />
+
 </p>
 <p></p>
 
