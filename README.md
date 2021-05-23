@@ -12,7 +12,8 @@ I'm Mukund, DevOps engineer in <b>New Delhi</b>
   <img alt="Kubernetes" src="https://img.shields.io/badge/%20-kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/%20-prometheus-orange?style=flat-square&logo=Prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/%20-grafana-E34F26?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/%20-aws-yellow?style=flat-square&logo=cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/%20-Azure-yellow?style=flat-square&logo=Azure&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/%20-aws-blue?style=flat-square&logo=cloud&logoColor=white" />
   <img alt="Splunk" src="https://img.shields.io/badge/%20-splunk-green?style=flat-square&logo=splunk&logoColor=white" /> 
   <img alt="ArgoCD" src="https://img.shields.io/badge/%20-argocd-orange?style=flat-square&logo=argocd&logoColor=white" /> 
   <img alt="Circleci" src="https://img.shields.io/badge/%20-circleci-black?style=flat-square&logo=circleci&logoColor=white" />
