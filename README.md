@@ -15,6 +15,7 @@ I'm Mukund, DevOps engineer in <b>New Delhi</b>
   <img alt="AWS" src="https://img.shields.io/badge/%20-aws-yellow?style=flat-square&logo=cloud&logoColor=white" />
   <img alt="Splunk" src="https://img.shields.io/badge/%20-splunk-green?style=flat-square&logo=splunk&logoColor=white" /> 
   <img alt="ArgoCD" src="https://img.shields.io/badge/%20-argocd-orange?style=flat-square&logo=argocd&logoColor=white" /> 
+  <img alt="Circleci" src="https://img.shields.io/badge/%20-circleci-black?style=flat-square&logo=circleci&logoColor=white" />   
 </p>
 <p></p>
 
