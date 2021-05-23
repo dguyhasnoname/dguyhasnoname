@@ -45,13 +45,17 @@ I'm Mukund, DevOps engineer in <b>New Delhi</b>
       <td><a href="https://github.com/dguyhasnoname/k8s-day2-ops"><b>k8s-day2-ops</b></a></td>
       <td><a href="https://github.com/dguyhasnoname/k8s-day2-ops/blob/master/README.md"> <b> Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dguyhasnoname/k8s-day2-ops?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/forks/dguyhasnoname/k8s-day2-ops?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dguyhasnoname/k8s-day2-ops?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/dguyhasnoname/k8s-day2-ops?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dguyhasnoname/k8s-day2-ops?style=flat-square&labelColor=343b41"/></td>  
     </tr>
     <tr>
       <td><a href="https://github.com/dguyhasnoname/k8s-cluster-checker"><b>k8s-cluster-checker</b></a></td>
       <td><a href="https://dguyhasnoname.github.io/k8s-cluster-checker/"> <b> Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dguyhasnoname/k8s-cluster-checker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/dguyhasnoname/k8s-cluster-checker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/dguyhasnoname/k8s-cluster-checker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dguyhasnoname/k8s-cluster-checker?style=flat-square&labelColor=343b41"/></td>   
     </tr>
   </td>
   </tbody>
