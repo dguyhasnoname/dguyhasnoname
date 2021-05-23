@@ -1,5 +1,5 @@
 
-<h1> <img src="https://media.giphy.com/media/RK7MEZc6AEpIlmB5n3/giphy.gif" width="30"/> नमस्ते! स्वागतम् </h1> 
+<h1> <img src="https://media.giphy.com/media/hWAM7UWsrfFzQFqVvD/giphy.gif" width="30"/> नमस्ते! स्वागतम् </h1> 
 
 <p>Welcome to my page! </br> 
 
