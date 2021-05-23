@@ -35,16 +35,6 @@ I'm Mukund, DevOps engineer in <b>New Delhi</b> 🇮🇳
 <p></p>
 <h3>Open source projects</h3>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b> Projects</b></td>
-      <td><b> Site</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b> Forks</b></td>
-      <td><b> Issues</b></td>
-      <td><b> Pull requests</b></td>
-    </tr>
-  </thead>
   <tbody>
 </td>
     <tr>
