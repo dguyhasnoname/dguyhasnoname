@@ -34,7 +34,7 @@ DevOps engineer from <b>New Delhi</b> 🇮🇳
 
 <p></p>
 <h3>Certifications</h3>
-<a href="https://www.credly.com/users/mukund-bihari"><b>"credly.com/dguyhasnoname"</b></a>
+<a href="https://www.credly.com/users/mukund-bihari"><b>credly.com/dguyhasnoname</b></a>
 </p>
 <p>
   
